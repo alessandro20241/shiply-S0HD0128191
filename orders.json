@@ -1,0 +1,43 @@
+{
+  "S0HD0128191": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Massimiliano Lorusso, Str. Ludovico Ariosto 9, 06063 Magione PG, Italien",
+    "price": "9.800 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: Heritage Softail Classic FLSTC <br> Fahrgestelnummer: 1HD1BW5197Y084848 <br>Erstzulassung: 07/2009 <br>TÜV 10/2026 <br> KM laut Vorbesitzer: 35.001 km <br>Leistung: 52 kW (71 PS) <br> Hubraum 1.584 cm³ <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 2 <br> Mit Extras <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Massimiliano Lorusso<br>Strada Ludovico Ariosto 9<br> 06063 Magione PG<br> Italien <br>Telefon: +39 3924269924",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "13-07-2026",
+    "deliveryDate": "21-07-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Strada Ludovico Ariosto 9",
+      "postal_code": "06063",
+      "city": "Magione PG",
+      "country": "Italien"
+    }
+  }
+}
